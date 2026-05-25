@@ -35,7 +35,7 @@ O projeto permite converter anos-luz para diversas unidades astronômicas e fís
 ## Como executar
 1. Clone o repositório
 ```
-git clone https://github.com/roodrigueslxz/astroconvert.git
+git clone https://github.com/roodrigueslxz/astroconvert_v1.git
 ```
 2. Instale o Astropy
 ```
