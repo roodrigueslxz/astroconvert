@@ -3,39 +3,39 @@
 Um conversor astronômico desenvolvido em Python utilizando a biblioteca Astropy.
 O projeto permite converter anos-luz para diversas unidades astronômicas e físicas através de um sistema interativo no terminal.
 
-
 ## Funcionalidades
 
-* Conversão de anos-luz para:
-* ** Quilômetros (km)
-* ** Metros (m)
-* ** Centímetros (cm)
-* ** Milhas (mi)
-* ** Unidade Astronômica (AU)
-* ** Parsec (pc)
-* ** Kiloparsec (kpc)
-* ** Megaparsec (Mpc)
-* Menu interativo no terminal
-* Aceita entrada por texto ou número
-* Tratamento de erros com try/except
-* Loop contínuo de conversão
-* Limpeza automática da tela
-* Simulação de processamento
-* Formatação de números grandes
-* Exibição de todas as unidades simultaneamente
+- Conversão de anos-luz para:
+  - Quilômetros (km)
+  - Metros (m)
+  - Centímetros (cm)
+  - Milhas (mi)
+  - Unidade Astronômica (AU)
+  - Parsec (pc)
+  - Kiloparsec (kpc)
+  - Megaparsec (Mpc)
+
+- Menu interativo no terminal
+- Aceita entrada por texto ou número
+- Tratamento de erros com `try/except`
+- Loop contínuo de conversão
+- Limpeza automática da tela
+- Simulação de processamento
+- Formatação de números grandes
+- Exibição de todas as unidades simultaneamente
 
 ## Tecnologias utilizadas
 * Python 3
 * Astropy
 
 * Módulos utilizados:
-* ** os
-* ** time
+  - os
+  - time
 
 ## Como executar
 1. Clone o repositório
 ```
-git clone SEU_LINK_AQUI
+git clone https://github.com/roodrigueslxz/astroconvert.git
 ```
 2. Instale o Astropy
 ```
