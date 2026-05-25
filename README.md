@@ -7,14 +7,14 @@ O projeto permite converter anos-luz para diversas unidades astronômicas e fís
 ## Funcionalidades
 
 * Conversão de anos-luz para:
-** Quilômetros (km)
-** Metros (m)
-** Centímetros (cm)
-** Milhas (mi)
-** Unidade Astronômica (AU)
-** Parsec (pc)
-** Kiloparsec (kpc)
-** Megaparsec (Mpc)
+* ** Quilômetros (km)
+* ** Metros (m)
+* ** Centímetros (cm)
+* ** Milhas (mi)
+* ** Unidade Astronômica (AU)
+* ** Parsec (pc)
+* ** Kiloparsec (kpc)
+* ** Megaparsec (Mpc)
 * Menu interativo no terminal
 * Aceita entrada por texto ou número
 * Tratamento de erros com try/except
@@ -29,8 +29,8 @@ O projeto permite converter anos-luz para diversas unidades astronômicas e fís
 * Astropy
 
 * Módulos utilizados:
-** os
-** time
+* ** os
+* ** time
 
 ## Como executar
 1. Clone o repositório
